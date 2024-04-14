@@ -1,5 +1,9 @@
 package main
 
+func main(){
+	
+}
+
 func Bark() string{
 return "Woof!"
 }
